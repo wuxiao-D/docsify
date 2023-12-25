@@ -2,8 +2,8 @@
 
 > An awesome project.
 ## 试试
-```
-npm install ProTable
+```sh
+npm install
 ```
 
 ```javascript
